@@ -1,2 +1,2 @@
-# EdgarOchoa
-Educacion Continua
+# Clase 1
+Educaciacion continua/Edgar Ochoa
